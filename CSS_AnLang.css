@@ -8,6 +8,7 @@
     font-weight: bold;
 }
 body{ 
+    background-image: linear-gradient(rgba(254, 214, 255, 0), rgba(255, 93, 228, 0.986)); 
     margin: 0;
     font-family: 'Graphik', sans-serif;
 }

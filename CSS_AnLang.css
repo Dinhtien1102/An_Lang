@@ -7,6 +7,7 @@
     src: url("./fonts/Graphik-Medium.otf");
     font-weight: bold;
 }
+/* s */
 body{ 
     background-image: linear-gradient(rgba(254, 214, 255, 0), rgba(255, 93, 228, 0.986)); 
     margin: 0;
